@@ -46,6 +46,3 @@ def scrape_season(season):
 
 for season in SEASONS:
     scrape_season(season)
-
-
-
